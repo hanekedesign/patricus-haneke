@@ -2,7 +2,10 @@
   "name": "patricus-haneke",
   "version": "2.7.1",
   "private": true,
-  "authors": ["GitHub Inc.", "Haneke Design"],
+  "authors": [
+    "GitHub Inc.",
+    "Haneke Design"
+  ],
   "keywords": [
     "github",
     "hubot",
@@ -23,6 +26,7 @@
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-hipchat": "^2.7.5",
+    "hubot-http-status": "^0.2.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0"
   },
   "engines": {
