@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-bamboozle": "0.0.5",
+    "hubot-bamboozle": "0.0.6",
     "hubot-hipchat": "^2.7.5",
     "hubot-http-status": "^0.2.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0"
